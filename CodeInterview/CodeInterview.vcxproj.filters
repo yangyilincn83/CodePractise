@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Algorithm">
+      <UniqueIdentifier>{8f782898-bb13-463c-9d80-d24d600cddb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CPlusPlus">
+      <UniqueIdentifier>{49fba6b7-cb58-418f-aa53-a03911268739}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataStructure">
+      <UniqueIdentifier>{b166ae67-6667-4ea7-9b44-7cfd23862868}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RightValueReference.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="SkipNodeList.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="ExceptionHandling.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiThreading.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="ReferenceWrapper.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicString.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="Container.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralTree.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Heap.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="AlgorithmLibrary.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionLibrary.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="OperatorOverloading.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="FreeSpaceList.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="LinearStructure.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleLinkedNode.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="LRUCache.h">
+      <Filter>Header Files\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="BST_FindNodePairWithSum.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc_CountCodeLinesInDocument.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="DP_EditDistance.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack_InsertionSort.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack_WithMaxElement.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="String_StringProcessing.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack_NStackInArray.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue_GetMaxElement.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_RemoveDuplicatesFromSortedArray.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths_FindBestElevatorStop.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc_FindBiggestRectangle.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindKthElementFromRanges.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="String_FindLongestPalindrome.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue_FindDependencySet.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_SeparateNumbersWithEqualSum.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindLongestCommonSubsequence.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindLongestArithmaticSequence.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_SortWaveRanges.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindLongestIncrementalSequence.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_ShiftKElementsToRight.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="String_FindLongestSubstringWithMUniqueCharacters.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="String_FindLongestSubstringWithoutDuplicates.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree_FindLowestCommonAncestor.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindMaxInSlideWindow.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree_FindMaxDistanceNodes.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindMaxSumSubarray.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindMinValueGap.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindClosestWords.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindShortestUnsortedSubarray.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList_ReverseDoubleLinkedList.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindWordsForPhoneNumber.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="BST_TreeValidation.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="BST_DoubleLinkedListTransform.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Heap_FindMedian.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="DP_FindShortestWordChain.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="DP_FindSubsetWithSpecificSum.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc_CalculateRectangleArea.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree_FindSumPath.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindShortestWindowWithAllKeywords.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_CountGreaterNumbersOnRightSide.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList_MergeTwoSortedLinkedList.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_FindNextSmallestNumberOnRightSide.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeInterview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPointer.h">
+      <Filter>Header Files\CPlusPlus</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap_FindBiggestKNumbers.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_SeparateNumbersWithClosestSum.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
